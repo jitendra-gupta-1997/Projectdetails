@@ -7,3 +7,7 @@ Details of all of my project are provided here
 
 # URL
     https://apps.apple.com/au/app/myvaldoxan/id540994357
+
+# Tech Stack
+
+- objective c
